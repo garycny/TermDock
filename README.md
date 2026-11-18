@@ -7,9 +7,24 @@
 
 ## 支持项目
 
-如果 TermDock 对你有帮助，欢迎点个 Star、[反馈问题](https://github.com/garycny/TermDock/issues)，或微信扫码自愿打赏。
+<p align="center">
+  <strong>如果 TermDock 对你有帮助，欢迎请我喝杯咖啡 ☕</strong><br>
+  也欢迎点个 Star，或<a href="https://github.com/garycny/TermDock/issues">反馈问题和建议</a>。
+</p>
 
-<img src="docs/assets/wechat-pay.png" width="160" alt="支持 TermDock 的微信收款二维码">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="docs/assets/wechat-pay.png" width="256" alt="支持 TermDock 的微信收款二维码"><br>
+      <strong>微信 · 请我喝咖啡</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  打开微信扫一扫，或保存图片后在微信中识别。<br>
+  打赏完全自愿，所有功能均可照常使用。
+</p>
 
 ## 功能
 
