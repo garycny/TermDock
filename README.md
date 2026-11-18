@@ -12,14 +12,10 @@
   也欢迎点个 Star，或<a href="https://github.com/garycny/TermDock/issues">反馈问题和建议</a>。
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="docs/assets/wechat-pay.png" width="256" alt="支持 TermDock 的微信收款二维码"><br>
-      <strong>微信 · 请我喝咖啡</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="docs/assets/wechat-pay-card.svg" width="320" alt="支持 TermDock 的微信收款二维码"><br>
+  <strong>微信 · 请我喝咖啡</strong>
+</p>
 
 <p align="center">
   打开微信扫一扫，或保存图片后在微信中识别。<br>
