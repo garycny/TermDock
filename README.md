@@ -28,3 +28,7 @@
 ![上下分屏](docs/screenshots/5.png)
 
 ![主题设置](docs/screenshots/6.png)
+
+## 支持项目
+
+如果 TermDock 对你有帮助，欢迎给仓库点个 Star、[反馈问题](https://github.com/garycny/TermDock/issues)，或[通过微信支持开发](docs/support.md)。
