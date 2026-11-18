@@ -5,6 +5,14 @@
 **[下载 TermDock v1.0.0](https://github.com/garycny/TermDock/releases/tag/v1.0.0)**  
 适用于 Apple Silicon Mac，需 macOS 13 或更新版本。
 
+## 支持项目
+
+如果 TermDock 对你有帮助，欢迎点个 Star、[反馈问题](https://github.com/garycny/TermDock/issues)，或微信扫码自愿打赏。
+
+<img src="docs/assets/wechat-pay.png" width="160" alt="支持 TermDock 的微信收款二维码">
+
+## 功能
+
 - 管理 SSH 连接，支持分组、收藏、密码、私钥和 SSH Agent。
 - 同时打开多个 SSH 或本地 Shell 会话，支持左右、上下分屏。
 - 通过 SFTP 浏览、上传和下载文件。
@@ -28,7 +36,3 @@
 ![上下分屏](docs/screenshots/5.png)
 
 ![主题设置](docs/screenshots/6.png)
-
-## 支持项目
-
-如果 TermDock 对你有帮助，欢迎给仓库点个 Star、[反馈问题](https://github.com/garycny/TermDock/issues)，或[通过微信支持开发](docs/support.md)。
