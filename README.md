@@ -17,6 +17,14 @@
 
 ## 截图
 
-![TermDock 连接工作区，使用演示主机](docs/screenshots/workspace.jpg)
+![连接工作区](docs/screenshots/1.png)
 
-![TermDock 主窗口内的主题设置](docs/screenshots/settings.jpg)
+![新建 SSH 连接](docs/screenshots/2.png)
+
+![本地终端与命令提示](docs/screenshots/3.png)
+
+![SFTP 文件面板](docs/screenshots/4.png)
+
+![上下分屏](docs/screenshots/5.png)
+
+![主题设置](docs/screenshots/6.png)
